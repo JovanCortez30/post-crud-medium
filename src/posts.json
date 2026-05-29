@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1a2b3c4d5e",
+      "title": "Exploring the Wonders of the Ocean",
+      "description": "Dive deep into the mysteries of the ocean and discover its hidden treasures."
+    },
+    {
+      "id": "2f3g4h5i6j",
+      "title": "The Art of Baking Bread",
+      "description": "Learn the secrets to baking perfect bread at home with simple ingredients."
+    },
+    {
+      "id": "3k4l5m6n7o",
+      "title": "Traveling the World on a Budget",
+      "description": "Discover tips and tricks for seeing the world without breaking the bank."
+    }
+  ]
+}
